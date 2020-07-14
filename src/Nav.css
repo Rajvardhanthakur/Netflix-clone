@@ -27,3 +27,8 @@
     width: 30px;
     object-fit: contain;
 }
+
+.nav_text_color{
+    color: #E50914;
+    font-family: Graphique;
+}
