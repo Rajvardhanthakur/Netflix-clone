@@ -1,3 +1,10 @@
+
+This is the clone of Netflix build with React and firebase 
+
+Following is the link you can check it out
+https://rajflix-d30864.netlify.app/
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
